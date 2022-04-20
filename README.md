@@ -1,1 +1,1 @@
-Intro Computer Sci Capstone Project
+Intro Computer Sci Capstone Projec
